@@ -1,0 +1,8 @@
+.reflect{
+	display:block;
+	-webkit-box-reflect: none;
+}
+
+a {
+	text-decoration: none;
+}
